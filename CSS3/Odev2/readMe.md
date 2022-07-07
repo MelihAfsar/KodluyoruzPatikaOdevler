@@ -1,4 +1,4 @@
-# Bolum Sonu Ödevi
+# Google Ana Sayfasını Tasarlamak
 ### Patika Hesap linkim:
 <a href="https://app.patika.dev/mafsar">Melih Afşar</a>
 
